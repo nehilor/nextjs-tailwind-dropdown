@@ -2,6 +2,8 @@
 
     A reusable, accessible dropdown select component built with React and TailwindCSS.
 
+    <img width="872" alt="image" src="https://github.com/user-attachments/assets/ade8e96e-b74f-4fc4-bcd3-708eed1bfb24" />
+
     ## Features
 
     - Search functionality
